@@ -6,6 +6,7 @@ Welcome to Flames. We are committed to protecting your privacy and ensuring the 
 2. Information We Collect
 
 Names: We collect the names you enter to generate relationship predictions.
+
 3. How We Use Your Information
 
 Generate Predictions: Names are used solely to generate relationship type predictions.
